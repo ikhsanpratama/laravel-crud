@@ -6,9 +6,9 @@ Laravel CRUD
 
 ## About Laravel CRUD
 
-NIM : 23552012008
-NAMA : Ikhsan Pratama HM
-Kelas : 221MC
+<p align="center">NIM : 23552012008</p>
+<p align="center">NAMA : Ikhsan Pratama HM</p>
+<p align="center">Kelas : 221MC</p>
 
 ## License
 
